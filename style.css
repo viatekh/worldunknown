@@ -3,6 +3,16 @@
   src: url(Telegraphem.otf);
 }
 
+ body {
+   background-color: black;
+   color: white;
+  } 
+
 h1,h2 {
   font-family: myFirstFont;
+}
+
+a { 
+  color: grey;
+  text-decoration: underline;
 }
